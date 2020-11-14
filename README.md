@@ -7,3 +7,6 @@ Authors implementation in pytorch:[https://github.com/hszhao/SAN]
 
 
 original paper:[https://arxiv.org/abs/2004.13621]
+
+# usage
+Usage is in test code
