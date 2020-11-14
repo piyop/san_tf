@@ -5,8 +5,7 @@ I implemented only patchwise SAN. pairwise SAN is not implemented here.
 
 Authors implementation in pytorch:[https://github.com/hszhao/SAN]
 
-
-original paper:[https://arxiv.org/abs/2004.13621]
+original paper:Exploring Self-attention for Image Recognition[https://arxiv.org/abs/2004.13621]
 
 # usage
 Usage is in test code
