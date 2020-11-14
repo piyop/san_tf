@@ -1,4 +1,4 @@
-# tfsan
+# tf_san
 SAN(self attention network) model in tensorflow2.x implementation
 
 I implemented only patchwise SAN. pairwise SAN is not implemented here.
